@@ -1,16 +1,24 @@
-# crud03
+# A Simple ToDo App
+This project is done to get a basic idea about Flutter applications.
 
-A new Flutter project.
+## Features
+- Real time CRUD operations
 
-## Getting Started
+## User Interfaces
+<table>
+  <tr>
+    <td>Authentication Screen</td>
+     <td>Add notes</td>
+     <td>Home Screen</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/69623047/142780644-bd22b826-ac2e-44ab-966e-1dec3e84714f.png" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/69623047/142780789-7684d1bb-d6c5-4342-a875-7a2014b5579b.png" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/69623047/142780801-35dc63bf-5197-4ad5-a50c-2d2d02392efb.png" width=270 height=480></td>
+  </tr>
+ </table>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
